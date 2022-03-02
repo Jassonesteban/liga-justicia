@@ -8,3 +8,13 @@ Pueden hacer lo que quieran...
 
 ### actualizado desde GitHub
 Podemos actualizar informacion desde GitHub
+
+* A
+* B
+* c
+* d
+  * E
+  * F
+  * H
+
+*Esto* es un texto en cursiva
